@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/isa/Documents/bootCamp-java-dio/maven/maven-javadoc-test/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/isa/Documents/bootCamp-java-dio/maven/maven-javadoc-test/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven-javadoc-test 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'maven-javadoc-test 1.0-SNAPSHOT API'
+one.digital.innovation
+'C:/Users/isa/Documents/bootCamp-java-dio/maven/maven-javadoc-test/src/main/java/one/digital/innovation/App.java'
+'C:/Users/isa/Documents/bootCamp-java-dio/maven/maven-javadoc-test/src/main/java/one/digital/innovation/StatusUser.java'
+'C:/Users/isa/Documents/bootCamp-java-dio/maven/maven-javadoc-test/src/main/java/one/digital/innovation/User.java'
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\src\main\java = 1725427949820
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\allclasses-index.html = 1725428612967
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\allpackages-index.html = 1725428612972
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\element-list = 1725428612519
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\help-doc.html = 1725428613106
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\index-all.html = 1725428613095
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\index.html = 1725428612941
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\jquery-ui.overrides.css = 1725428613535
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\member-search-index.js = 1725428613058
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\module-search-index.js = 1725428613033
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\overview-summary.html = 1725428613099
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\overview-tree.html = 1725428612935
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\package-search-index.js = 1725428613041
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\package-summary.html = 1725428612601
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\package-tree.html = 1725428612622
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\package-use.html = 1725428612901
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\script.js = 1725428613144
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\search.js = 1725428613255
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\StatusUser.html = 1725428612474
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\stylesheet.css = 1725428613137
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\tag-search-index.js = 1725428613063
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\type-search-index.js = 1725428613050
+C:\Users\isa\Documents\bootCamp-java-dio\maven\maven-javadoc-test\target\site\apidocs\User.html = 1725428612517
